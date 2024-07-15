@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **C,CPP,JS**
 
-- 📧 Email me! **sanjayponnamabalam14@gmail.com**
+- 📧 Email me! **sanjayponnambalam14@gmail.com**
 
 - ⚡ Fun fact **We're serious here!**
 
